@@ -1,6 +1,6 @@
 # rubiks-cube
 A Rubik's Cube simulator written in C++ and OpenGL.
-![Application screenshot](https://github.com/oliver-hamilton/rubiks-cube/blob/main/assets/screenshot-1.png?raw=true)
+![Application screenshot](https://github.com/oliver-hamilton/rubiks-cube/blob/main/assets/animation.gif?raw=true)
 
 # Setup
 On Linux, run the following command from within the `src/` directory:
